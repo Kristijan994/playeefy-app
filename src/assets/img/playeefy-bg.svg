@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1921" height="768" viewBox="0 0 1921 768">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_144" data-name="Rectangle 144" width="1921" height="768" transform="translate(-1074 2002)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(1074 -2002)" clip-path="url(#clip-path)">
+    <g id="Group_112" data-name="Group 112" transform="translate(-1074 2003)">
+      <g id="Group_109" data-name="Group 109">
+        <rect id="Rectangle_1" data-name="Rectangle 1" width="1920" height="767" fill="#4b3bbc"/>
+      </g>
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="216" height="88" rx="25" transform="translate(373.743 17.853) rotate(30)" fill="#7fadf2" opacity="0.07"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="705" height="348" rx="25" transform="translate(-17.257 389.853) rotate(30)" fill="#7fadf2" opacity="0.07"/>
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="463" height="300" rx="50" transform="translate(1614.083 567.218) rotate(25)" fill="#fff"/>
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="463" height="300" rx="50" transform="translate(-177.955 875.72) rotate(-36)" fill="#fff"/>
+      <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="56" cy="53" rx="56" ry="53" transform="translate(1723 361)" fill="#f27088" opacity="0.08"/>
+      <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="56" cy="53" rx="56" ry="53" transform="translate(848 437)" fill="#f27088" opacity="0.08"/>
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="604" height="348" rx="25" transform="matrix(0.875, -0.485, 0.485, 0.875, 1082.26, 418.27)" fill="#3b308b" opacity="0.07"/>
+      <rect id="Rectangle_16" data-name="Rectangle 16" width="604" height="348" rx="25" transform="matrix(-0.485, -0.875, 0.875, -0.485, 795.98, 125.533)" fill="#3b308b" opacity="0.07"/>
+      <g id="Rectangle_11" data-name="Rectangle 11" transform="translate(1046.314 186.707) rotate(25)" fill="none" stroke="#7fadf2" stroke-width="1" stroke-dasharray="5" opacity="0.47">
+        <rect width="237" height="337" stroke="none"/>
+        <rect x="0.5" y="0.5" width="236" height="336" fill="none"/>
+      </g>
+      <g id="Group_3" data-name="Group 3" transform="translate(-145 13)" opacity="0.5">
+        <rect id="Rectangle_14" data-name="Rectangle 14" width="81" height="172" rx="25" transform="matrix(0.883, -0.469, 0.469, 0.883, 865.722, 695.498)" fill="#fff" opacity="0.09"/>
+        <rect id="Rectangle_15" data-name="Rectangle 15" width="60" height="172" rx="25" transform="translate(981.704 681.916) rotate(41)" fill="#fff" opacity="0.09"/>
+      </g>
+      <g id="Group_4" data-name="Group 4" transform="translate(893 -771)" opacity="0.5">
+        <rect id="Rectangle_14-2" data-name="Rectangle 14" width="81" height="172" rx="25" transform="matrix(0.883, -0.469, 0.469, 0.883, 865.722, 695.498)" fill="#fff" opacity="0.09"/>
+        <rect id="Rectangle_15-2" data-name="Rectangle 15" width="60" height="172" rx="25" transform="translate(981.704 681.916) rotate(41)" fill="#fff" opacity="0.09"/>
+      </g>
+    </g>
+  </g>
+</svg>
